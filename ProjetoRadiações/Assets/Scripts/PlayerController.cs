@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour {
 
 
     float a = 0;
+	float x = 1;
 	// Use this for initialization
 	void Start () {
 		
